@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".com.library.chengxiaocai.mydemo.ui.ScrollActivity" />
+        <activity android:name=".com.library.chengxiaocai.mydemo.ui.ScrollListViewActivity"></activity>
     </application>
 
 </manifest>
